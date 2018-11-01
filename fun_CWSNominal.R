@@ -2,8 +2,8 @@
 ### Don C. Zhang, dc.zhang1@gmail.com
 
 
-### Example dataframe with 5 items, 3 administrations
-### Data used in Shanteau & Weiss (2005) http://www.ksu.edu/psych/cws/pdf/using_cws.pdf
+### Example dataframe with 5 items, 2 test administrations
+### This code can be generalized to more than 2 test administrations
 inputData <- data.frame(time1 = c("A","A","B","D","C")
                       ,time2= c("A","B","D","D","C"))
 
