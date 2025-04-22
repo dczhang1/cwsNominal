@@ -12,8 +12,10 @@
 #'
 #' @return A numeric value representing the CWS Index.
 #'
-#' @author Don C. Zhang, dc.zhang1@gmail.com (Original author)
-#' @citation: Zhang, D. C., & Wang, Y. (2021). An empirical approach to identifying subject matter experts for the development of situational judgment tests. Journal of Personnel Psychology.
+#' @author Don C. Zhang, dc.zhang1@gmail.com 
+#' @citation: Zhang, D. C., & Wang, Y. (2021). An empirical approach to 
+#' identifying subject matter experts for the development of situational 
+#' judgment tests. Journal of Personnel Psychology.
 #'
 #' @examples
 #' # Example dataframe with 5 items and 2 test administrations
